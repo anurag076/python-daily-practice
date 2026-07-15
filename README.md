@@ -25,6 +25,6 @@ I am tracking my progress, daily learnings, and solutions right here.
 | Day | Topic / Challenge | Source | Solution Link | Key Takeaways |
 | :--- | :--- | :--- | :--- | :--- |
 | **01** | Python If-Else | [HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Day_01/python_if_else.py](./Day_01/python_if_else.py) | Mastered modulo checks (`%`) for parity and handling nested conditional ranges. |
-| **02** | *TBD* | — | *Upcoming* | — |
+| **02** | Arithmetic Operators | [HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Day_01/python_if_else.py](./Day_01/python_if_else.py) | — |
 
 *"Consistency beats intensity. One line of code at a time."*
