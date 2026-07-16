@@ -24,7 +24,8 @@ I am tracking my progress, daily learnings, and solutions right here.
 
 | Day | Topic / Challenge | Source | Solution Link | Key Takeaways |
 | :--- | :--- | :--- | :--- | :--- |
-| **01** | Python If-Else | [HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Day_01/python_if_else.py](./Day_01/python_if_else.py) | Mastered modulo checks (`%`) for parity and handling nested conditional ranges. |
-| **02** | Arithmetic Operators | [HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Day_01/python_if_else.py](./Day_01/python_if_else.py) | — |
+| **01** | Python If-Else | [HackerRank](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | [Day_01/python_if_else.py](./Day_01/python_if_else.py) | Mastered modulo checks (%) and conditional statements. |
+| **02** | Arithmetic Operators | [HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Day_02/arithmetic_operators.py](./Day_02/arithmetic_operators.py) | Learned arithmetic operations and operator usage in Python. |
+| **03** | Loops | [HackerRank](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Day_03/solution.py](./Day_03/solution.py) | Learned iteration using `for` loops and `range()`. |
 
 *"Consistency beats intensity. One line of code at a time."*
