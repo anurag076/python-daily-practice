@@ -28,5 +28,6 @@ I am tracking my progress, daily learnings, and solutions right here.
 | **02** | Arithmetic Operators | [HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true) | [Day_02/arithmetic_operators.py](./Day_02/arithmetic_operators.py) | Learned arithmetic operations and operator usage in Python. |
 | **03** | Loops | [HackerRank](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Day_03/solution.py](./Day_03) | Learned iteration using `for` loops and `range()`. |
 | **04** | Division | [HackerRank](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Day_04/solution.py](./Day_04) | Learned the difference between integer division (`//`) and float division (`/`) in Python. |
+| **05** | Print Function | [HackerRank](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Day_05/solution.py](./Day_05/solution.py) | Learned how to print consecutive integers without spaces using the `print()` function and the `end` parameter. |  
 
 *"Consistency beats intensity. One line of code at a time."*
