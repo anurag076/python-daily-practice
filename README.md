@@ -29,5 +29,6 @@ I am tracking my progress, daily learnings, and solutions right here.
 | **03** | Loops | [HackerRank](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true) | [Day_03/solution.py](./Day_03) | Learned iteration using `for` loops and `range()`. |
 | **04** | Division | [HackerRank](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Day_04/solution.py](./Day_04) | Learned the difference between integer division (`//`) and float division (`/`) in Python. |
 | **05** | Print Function | [HackerRank](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Day_05/solution.py](./Day_05/solution.py) | Learned how to print consecutive integers without spaces using the `print()` function and the `end` parameter. |  
+| **06** | List Comprehensions | [HackerRank](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Day_06/solution.py](./Day_06/solution.py) | Learned Python list comprehensions to generate and filter 3D coordinates efficiently without using nested loops. |
 
 *"Consistency beats intensity. One line of code at a time."*
