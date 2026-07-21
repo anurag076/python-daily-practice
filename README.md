@@ -30,5 +30,6 @@ I am tracking my progress, daily learnings, and solutions right here.
 | **04** | Division | [HackerRank](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true) | [Day_04/solution.py](./Day_04) | Learned the difference between integer division (`//`) and float division (`/`) in Python. |
 | **05** | Print Function | [HackerRank](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true) | [Day_05/solution.py](./Day_05/solution.py) | Learned how to print consecutive integers without spaces using the `print()` function and the `end` parameter. |  
 | **06** | List Comprehensions | [HackerRank](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Day_06/solution.py](./Day_06/solution.py) | Learned Python list comprehensions to generate and filter 3D coordinates efficiently without using nested loops. |
+| **07** | Leap Year | [HackerRank](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true) | [Day_07/solution.py](./Day_07/solution.py) | Learned how to create functions, return Boolean values, and implement conditional logic to determine leap years. |
 
 *"Consistency beats intensity. One line of code at a time."*
